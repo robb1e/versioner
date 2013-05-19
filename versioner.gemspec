@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Versioner::VERSION
   gem.authors       = ["Robbie Clutton"]
   gem.email         = ["robert.clutton@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{A way to retreive best placed versions}
+  gem.summary       = %q{A way to retreive best placed versions}
   gem.homepage      = ""
 
   gem.add_development_dependency "rspec"
