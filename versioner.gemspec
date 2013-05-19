@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'versioner/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "versioner"
+  gem.name          = "simple-versioner"
   gem.version       = Versioner::VERSION
   gem.authors       = ["Robbie Clutton"]
   gem.email         = ["robert.clutton@gmail.com"]
